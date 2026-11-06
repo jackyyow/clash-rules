@@ -1,2 +1,8 @@
-# muse.ai
+# muse.ai — Meta 旗下 (Muse AI)
 DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+# Meta 内容/CDN 基础设施（muse 页面加载依赖，走代理）
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
