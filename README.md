@@ -4,7 +4,7 @@ OpenClash / Clash 自定义规则集，托管在 GitHub 供 `rule-providers` 以
 
 | 规则集 | 内容 | 策略 |
 |---|---|---|
-| `muse.list` | muse.ai（Meta 旗下视频平台） | 代理 |
+| `muse.list` | muse.ai | 代理 |
 | `Polymarket.list` | Polymarket | 代理 |
 | `GoogleDrive.list` | Google Drive | 代理 |
 | `MPlan.list` | 计划M bot（drpc.org） | 代理 |
